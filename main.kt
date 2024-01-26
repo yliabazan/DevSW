@@ -6,3 +6,7 @@ fun main() {
 fun printHelloWorld() {
     println("Hello, World! ")
 }
+fun vivaMechMat() {
+    println("Viva Mech-mat faculty")
+}
+vivaMechMat()
